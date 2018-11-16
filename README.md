@@ -1,0 +1,2 @@
+# text-animation
+HOW TO DISPLAY TEXT USING CSS ANIMATION
